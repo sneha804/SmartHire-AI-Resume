@@ -369,7 +369,7 @@ Recommended Platforms
 Engineer | Machine Learning Developer
 
 GitHub:
-https://github.com/sneha804/SmartHire-AI-Resum
+https://github.com/sneha804/SmartHire-AI-Resume
 
 LinkedIn:
 www.linkedin.com/in/sneha-potluri-88869631a
